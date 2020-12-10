@@ -1,4 +1,4 @@
-# number_fluctuations_congestion
+# Number fluctuations induce persistent congestion
 
 This contains all the necessary resources to generate the figures in the article
 
