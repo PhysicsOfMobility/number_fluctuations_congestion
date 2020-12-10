@@ -2,7 +2,7 @@
 
 This contains all the necessary resources to generate the figures in the article
 
-> Krall, Verena, Max F. Burg, Malte Schröder, and Marc Timme. “Number Fluctuations Induce Persistent Congestion.” Findings.
+> Krall, Verena, Max F. Burg, Malte Schröder and Marc Timme. “Number Fluctuations Induce Persistent Congestion.” Findings.
 
 ## What is contained?
 
