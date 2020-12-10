@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/319622452.svg)](https://zenodo.org/badge/latestdoi/319622452)
+
 # Number fluctuations induce persistent congestion
 
 This contains all the necessary resources to generate the figures in the article
